@@ -1,0 +1,2 @@
+conda activate swin_cpu_aws
+python aws_cpu_scripts/1_run_python.py 0.05
