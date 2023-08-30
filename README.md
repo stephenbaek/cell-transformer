@@ -8,7 +8,7 @@ The different steps to install the Swin transformer are described below:
 
 ### Install Anaconda and create conda environment:
 ```bash
-conda env create -f swin_ui.yml
+conda env create -f swin_gpu_machine.yml
 conda activate swin
 mim install mmcv-full==1.5.0
 cd ~/swin
