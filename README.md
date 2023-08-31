@@ -29,3 +29,20 @@ python aws_cpu_scripts/1_run_python.py 0.05
 Change the threshold parameter between [0.01 - 1] to obtain predictions higher then the set threshold
 
 4. The swin transformer predicted roi zip should be in the ~/swin/predictions folder.
+
+## Acknowledgement
+
+This work was funded by NIH/NINDS R01NS115800 and the Iowa Neuroscience Institute. This research was partly supported by the computational resources provided by the University of Iowa, Iowa City, Iowa, and by The University of Iowa Hawkeye Intellectual and Developmental Disabilities Research Center (HAWK-IDDRC) P50 HD103556.
+
+License and Acknowledgement
+
+This work is based on [Swin Transformer](https://github.com/microsoft/Swin-Transformer)
+## Contributors
+
+- [Mohammad Shafkat Islam](https://datascience.virginia.edu/people/mohammad-islam), University of Virginia
+-  Pratyush Suryavanshi, University of Iowa
+-  Samuel Baule, University of Iowa
+- [Stephen Baek](http://www.stephenbaek.com), University of Virginia
+- [Joseph Glykys](https://medicine.uiowa.edu/pediatrics/profile/joseph-glykys), University of Iowa
+
+
