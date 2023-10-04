@@ -1,6 +1,6 @@
 # Neuronal Cell Body Segmentation using Swin Transformer
 
-This repository contains the official implementation of Islam et al. (2023).
+This repository contains the official implementation of [Mohammad Shafkat Islam, Pratyush Suryavanshi, Samuel M. Baule, Joseph Glykys, & Stephen Baek. (2023). A Deep Learning Approach for Neuronal Cell Body Segmentation in Neurons Expressing GCaMP Using a Swin Transformer. eNeuro, 10(9):ENEURO.0148-23.2023.](https://www.eneuro.org/content/10/9/ENEURO.0148-23.2023)
 
 ## Getting Started
 
@@ -37,4 +37,17 @@ This work is based on [Swin Transformer](https://github.com/microsoft/Swin-Trans
 - [Stephen Baek](http://www.stephenbaek.com), University of Virginia
 - [Joseph Glykys](https://medicine.uiowa.edu/pediatrics/profile/joseph-glykys), University of Iowa
 
-
+## Citation
+To cite this work, please use the following information:
+```
+@article {IslamENEURO.0148-23.2023,
+	author = {Mohammad Shafkat Islam and Pratyush Suryavanshi and Samuel M. Baule and Joseph Glykys and Stephen Baek},
+	title = {A Deep Learning Approach for Neuronal Cell Body Segmentation in Neurons Expressing GCaMP Using a Swin Transformer},
+	journal = {eNeuro},
+	volume = {10},
+	number = {9},
+	year = {2023},
+	doi = {10.1523/ENEURO.0148-23.2023},
+	URL = {https://www.eneuro.org/content/10/9/ENEURO.0148-23.2023}
+}
+```
