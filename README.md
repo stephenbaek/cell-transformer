@@ -42,8 +42,8 @@ To cite this work, please use the following information:
 ```
 @article {IslamENEURO.0148-23.2023,
 	author = {Mohammad Shafkat Islam and Pratyush Suryavanshi and Samuel M. Baule and Joseph Glykys and Stephen Baek},
-	title = {A Deep Learning Approach for Neuronal Cell Body Segmentation in Neurons Expressing GCaMP Using a Swin Transformer},
-	journal = {eNeuro},
+	title = {A Deep Learning Approach for Neuronal Cell Body Segmentation in Neurons Expressing {GCaMP} Using a Swin Transformer},
+	journal = {{eNeuro}},
 	volume = {10},
 	number = {9},
 	year = {2023},
